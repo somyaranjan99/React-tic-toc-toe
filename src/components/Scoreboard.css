@@ -1,0 +1,29 @@
+.scoreboard{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 3rem auto;
+    width: 20rem;
+    background-color: #fff;
+    box-shadow: 0px 0px 8px #888;
+    font-size: 3rem;
+    font-weight: bold;
+}
+.score{
+    width: 100%;
+    padding: 1rem;
+    text-align: center;
+
+}
+.x-playnig{
+    color:  rgb(255,70,37);
+    width: 100%;
+    border-bottom: 0.5rem solid  rgb(255,70,37);
+}
+.o-playnig{
+    color:  rgb(44,135,255);
+    width: 100%;
+    border-bottom: 0.5rem solid rgb(44,135,255);
+}
+.inactive{
+    border-bottom: transparent;
+}

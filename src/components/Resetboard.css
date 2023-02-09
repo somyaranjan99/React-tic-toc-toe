@@ -1,0 +1,9 @@
+.resetBtn{
+    background-color: rgb(44,135,255);
+    font-size: 1rem;
+    color: #fff;
+    margin-top: 3rem;
+    border: none;
+    padding: 0.5rem;
+    cursor: pointer;
+}
